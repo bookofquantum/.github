@@ -2,8 +2,6 @@
 
 ![The Book of Quantum](https://raw.githubusercontent.com/bookofquantum/BOQ/refs/heads/main/img/IMG_0719.png "Book of Quantum")
 
-**Abstract for "The Book of Quantum" Series**
-
 "The Book of Quantum" series is a comprehensive exploration into the revolutionary field of hybrid photonic quantum computing. This series unravels the complex interplay between quantum mechanics and photonics, providing a detailed roadmap for constructing quantum computers that utilize light as a primary means of quantum information processing. 
 
 We delve into the foundational theories of quantum mechanics tailored to photonic systems, the engineering challenges of creating and manipulating quantum states using photons, and the innovative approaches to integrating photonic qubits with other quantum technologies. The series addresses the design and fabrication of photonic circuits, the critical role of measurement in quantum computation, and the unique advantages of using light for quantum operations like entanglement, superposition, and quantum teleportation.
